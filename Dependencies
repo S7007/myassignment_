@@ -1,0 +1,8 @@
+Dependencies
+Dependencies
+node.js and npm
+express
+mongoose
+bcryptjs
+jsonwebtoken
+dotenv 
